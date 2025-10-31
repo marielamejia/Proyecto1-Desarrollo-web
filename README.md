@@ -28,7 +28,7 @@ El proceso del diseño se inició eligiendo los colores que se usarían en la p�
 
 Basándonos en la siguiente imagen, se eligieron los colores rojo, blanco y negro.
 <p align="center">
-    <img src="imagenesReadme/psicologiaColores.png" width="500" alt="Imagen mostrando significado de los colores en la psicología">
+    <img src="src/img/psicologiaColores.png" width="500" alt="Imagen mostrando significado de los colores en la psicología">
 </p>
 
 Justificación de la decisión: 
@@ -43,19 +43,19 @@ Una vez eligiendo los colores, pasamos al diseño gráfico de la interfaz. Para 
 Inspiración eventos (pantalla principal)
 
 <p align="center">
-    <img src="imagenesReadme/inspiracionEventosOscuro.png" width="500" alt="Imagen inspiración diseño para eventos (pantalla principal)">
+    <img src="src/img/inspiracionEventosOscuro.png" width="500" alt="Imagen inspiración diseño para eventos (pantalla principal)">
 </p>
 
 Inspiración estadísticas
 
 <p align="center">
-    <img src="imagenesReadme/inspiracionEstadisticasOscuro.png" width="500" alt="Imagen inspiración diseño para estadísticas">
+    <img src="src/img/inspiracionEstadisticasOscuro.png" width="500" alt="Imagen inspiración diseño para estadísticas">
 </p>
 
 Inspiración calendario
 
 <p align="center">
-    <img src="imagenesReadme/inspiracionCalendarioOscuro.png" width="500" alt="Imagen inspiración diseño para calendario">
+    <img src="src/img/inspiracionCalendarioOscuro.png" width="500" alt="Imagen inspiración diseño para calendario">
 </p>
 
 <strong>Los diseños de inspiración (en modo claro) fueron los siguientes:</strong>
@@ -63,19 +63,19 @@ Inspiración calendario
 Inspiración eventos (pantalla principal)
 
 <p align="center">
-    <img src="imagenesReadme/inspiracionEventos.jpeg" width="500" alt="Imagen inspiración diseño para eventos (pantalla principal)">
+    <img src="src/img/inspiracionEventos.jpeg" width="500" alt="Imagen inspiración diseño para eventos (pantalla principal)">
 </p>
 
 Inspiración estadísticas
 
 <p align="center">
-    <img src="imagenesReadme/inspiracionEstadisticas.jpeg" width="500" alt="Imagen inspiración diseño para estadísticas">
+    <img src="src/img/inspiracionEstadisticas.jpeg" width="500" alt="Imagen inspiración diseño para estadísticas">
 </p>
 
 Inspiración calendario
 
 <p align="center">
-    <img src="imagenesReadme/inspiracionCalendario.jpeg" width="500" alt="Imagen inspiración diseño para calendario">
+    <img src="src/img/inspiracionCalendario.jpeg" width="500" alt="Imagen inspiración diseño para calendario">
 </p>
 
 ## Proceso elaboración eventos
