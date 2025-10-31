@@ -48,55 +48,7 @@ o si se alcanza a propagar por el DNS el dominio que compramos, deberia de ser a
   
 ## [Sección de autores con una fotografía y su nombre de pila.](https://github.com/marielamejia/Proyecto1-Desarrollo-web/blob/f021c660f3ae85905192911b94a7e3007b2ec5bd/autores.html)
 
-===============================
-Descripción del Proyecto
-===============================
-
-Proyecto1-Desarrollo-web/
-├─ Backend/
-│  ├─ HOWTO_START_BACKEND.md     # Tutorial para ejecutar el backend con Uvicorn
-│  ├─ main.py                    # API principal con FastAPI (eventos, calendario, estadísticas)
-│  └─ requirements.txt           # Dependencias necesarias para el entorno virtual (venv)
-│
-├─ Frontend/
-│  ├─ assets/
-│  │  ├─ css/
-│  │  │  └─ styles.css           # Estilos globales, tema claro/oscuro y componentes visuales
-│  │  └─ js/
-│  │     ├─ admin.js             # Panel administrativo: CRUD de eventos (create/update)
-│  │     ├─ app.js               # Página principal de eventos: búsqueda, filtros, cards dinámicos
-│  │     ├─ calendar.js          # Calendario interactivo con render dinámico y detalle por día
-│  │     ├─ stats.js             # Gráficas de estadísticas: asistencia, estados, posiciones
-│  │     └─ theme.js             # Lógica de cambio de tema (dark/light) con persistencia localStorage
-│  │
-│  ├─ admin.html                 # Vista de administración para crear/editar eventos
-│  ├─ calendario.html            # Vista de calendario con tabla mensual
-│  ├─ estadisticas.html          # Vista de estadísticas con gráficas Chart.js
-│  ├─ HOWTO_START_FRONTEND.md    # Tutorial para iniciar el servidor local del frontend
-│  └─ index.html                 # Página principal (eventos y buscador)
-│
-├─ src/
-│  └─ img/
-│     ├─ autores/
-│     │  ├─ Carlos.jpg
-│     │  ├─ Luis.jpg
-│     │  ├─ Mariela.jpg
-│     │  └─ Samuel.jpg
-│     ├─ inspiracionCalendario.jpeg
-│     ├─ inspiracionEstadisticas.jpeg
-│     ├─ inspiracionEstadisticasOscuro.png
-│     ├─ inspiracionEventos.jpeg
-│     ├─ inspiracionEventosOscuro.png
-│     └─ psicologiaColores.png
-│
-├─ autores.html                  # Página con fotos y nombres de los integrantes
-├─ PROJECT_OVERVIEW.md           # Explicación de cómo interactúan Frontend ↔ Backend
-├─ README.md                     # Documento principal del repositorio
-└─ .gitignore                    # Archivos y carpetas a excluir
-
-===============================
 Roles y contribuciones del equipo
-===============================
 
 Frontend:
   - Mariela Mejía Gutiérrez (201373)
